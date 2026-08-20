@@ -1,0 +1,8 @@
+# .NET
+bin/
+obj/
+*.user
+
+# JetBrains (Rider/ReSharper)
+.idea/
+*.DotSettings.user

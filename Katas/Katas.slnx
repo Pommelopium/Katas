@@ -1,0 +1,701 @@
+<Solution>
+  <Folder Name="/01_FunctionKatas/CSVTabellen/">
+    <File Path="CSVTabellen/README.md" />
+    <Project Path="CSVTabellen/CSVTabellen/CSVTabellen.csproj" />
+    <Project Path="CSVTabellen/CSVTabellen.Tests/CSVTabellen.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/FilePathHelper/">
+    <File Path="FilePathHelper/README.md" />
+    <Project Path="FilePathHelper/FilePathHelper/FilePathHelper.csproj" />
+    <Project Path="FilePathHelper/FilePathHelper.Tests/FilePathHelper.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/FizzBuss/">
+    <File Path="FizzBuss/README.md" />
+    <Project Path="FizzBuss/FizzBuss/FizzBuss.csproj" />
+    <Project Path="FizzBuss/FizzBuss.Tests/FizzBuss.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/HappyNumbers/">
+    <File Path="HappyNumbers/README.md" />
+    <Project Path="HappyNumbers/HappyNumbers/HappyNumbers.csproj" />
+    <Project Path="HappyNumbers/HappyNumbers.Tests/HappyNumbers.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/LinesOfCode/">
+    <File Path="LinesOfCode/README.md" />
+    <Project Path="LinesOfCode/LinesOfCode/LinesOfCode.csproj" />
+    <Project Path="LinesOfCode/LinesOfCode.Tests/LinesOfCode.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/MailFollowup/">
+    <File Path="MailFollowup/README.md" />
+    <Project Path="MailFollowup/MailFollowup/MailFollowup.csproj" />
+    <Project Path="MailFollowup/MailFollowup.Tests/MailFollowup.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/RomanNumerals/">
+    <File Path="RomanNumerals/README.md" />
+    <Project Path="RomanNumerals/RomanNumerals/RomanNumerals.csproj" />
+    <Project Path="RomanNumerals/RomanNumerals.Tests/RomanNumerals.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/Rot13/">
+    <File Path="Rot13/README.md" />
+    <Project Path="Rot13/Rot13/Rot13.csproj" />
+    <Project Path="Rot13/Rot13.Tests/Rot13.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/RussischeBauernmultiplikation/">
+    <File Path="RussischeBauernmultiplikation/README.md" />
+    <Project Path="RussischeBauernmultiplikation/RussischeBauernmultiplikation/RussischeBauernmultiplikation.csproj" />
+    <Project Path="RussischeBauernmultiplikation/RussischeBauernmultiplikation.Tests/RussischeBauernmultiplikation.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/Tannenbaum/">
+    <File Path="Tannenbaum/README.md" />
+    <Project Path="Tannenbaum/Tannenbaum/Tannenbaum.csproj" />
+    <Project Path="Tannenbaum/Tannenbaum.Tests/Tannenbaum.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/Textumbruch/">
+    <File Path="Textumbruch/README.md" />
+    <Project Path="Textumbruch/Textumbruch/Textumbruch.csproj" />
+    <Project Path="Textumbruch/Textumbruch.Tests/Textumbruch.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/ToDictionary/">
+    <File Path="ToDictionary/README.md" />
+    <Project Path="ToDictionary/ToDictionary/ToDictionary.csproj" />
+    <Project Path="ToDictionary/ToDictionary.Tests/ToDictionary.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/ToRomanNumerals/">
+    <File Path="ToRomanNumerals/README.md" />
+    <Project Path="ToRomanNumerals/ToRomanNumerals/ToRomanNumerals.csproj" />
+    <Project Path="ToRomanNumerals/ToRomanNumerals.Tests/ToRomanNumerals.Tests.csproj" />
+  </Folder>
+  <Folder Name="/01_FunctionKatas/ZeichenZaehlen/">
+    <File Path="ZeichenZaehlen/README.md" />
+    <Project Path="ZeichenZaehlen/ZeichenZaehlen/ZeichenZaehlen.csproj" />
+    <Project Path="ZeichenZaehlen/ZeichenZaehlen.Tests/ZeichenZaehlen.Tests.csproj" />
+  </Folder>
+  <Folder Name="/02_ClassKatas/BoundedQueue/">
+    <File Path="BoundedQueue/README.md" />
+    <Project Path="BoundedQueue/BoundedQueue/BoundedQueue.csproj" />
+    <Project Path="BoundedQueue/BoundedQueue.Tests/BoundedQueue.Tests.csproj" />
+  </Folder>
+  <Folder Name="/02_ClassKatas/Bowling/">
+    <File Path="Bowling/README.md" />
+    <Project Path="Bowling/Bowling/Bowling.csproj" />
+    <Project Path="Bowling/Bowling.Tests/Bowling.Tests.csproj" />
+  </Folder>
+  <Folder Name="/02_ClassKatas/BoxPlot/">
+    <File Path="BoxPlot/README.md" />
+    <Project Path="BoxPlot/BoxPlot/BoxPlot.csproj" />
+    <Project Path="BoxPlot/BoxPlot.Tests/BoxPlot.Tests.csproj" />
+  </Folder>
+  <Folder Name="/02_ClassKatas/Galgenmaennchen/">
+    <File Path="Galgenmaennchen/README.md" />
+    <Project Path="Galgenmaennchen/Galgenmaennchen/Galgenmaennchen.csproj" />
+    <Project Path="Galgenmaennchen/Galgenmaennchen.Tests/Galgenmaennchen.Tests.csproj" />
+  </Folder>
+  <Folder Name="/02_ClassKatas/LinkedList/">
+    <File Path="LinkedList/README.md" />
+    <Project Path="LinkedList/LinkedList/LinkedList.csproj" />
+    <Project Path="LinkedList/LinkedList.Tests/LinkedList.Tests.csproj" />
+  </Folder>
+  <Folder Name="/02_ClassKatas/OrderedJobs/">
+    <File Path="OrderedJobs/README.md" />
+    <Project Path="OrderedJobs/OrderedJobs/OrderedJobs.csproj" />
+    <Project Path="OrderedJobs/OrderedJobs.Tests/OrderedJobs.Tests.csproj" />
+  </Folder>
+  <Folder Name="/02_ClassKatas/PriorityQueue/">
+    <File Path="PriorityQueue/README.md" />
+    <Project Path="PriorityQueue/PriorityQueue/PriorityQueue.csproj" />
+    <Project Path="PriorityQueue/PriorityQueue.Tests/PriorityQueue.Tests.csproj" />
+  </Folder>
+  <Folder Name="/02_ClassKatas/Ringpuffer/">
+    <File Path="Ringpuffer/README.md" />
+    <Project Path="Ringpuffer/Ringpuffer/Ringpuffer.csproj" />
+    <Project Path="Ringpuffer/Ringpuffer.Tests/Ringpuffer.Tests.csproj" />
+  </Folder>
+  <Folder Name="/02_ClassKatas/Stack/">
+    <File Path="Stack/README.md" />
+    <Project Path="Stack/Stack/Stack.csproj" />
+    <Project Path="Stack/Stack.Tests/Stack.Tests.csproj" />
+  </Folder>
+  <Folder Name="/03_LibraryKatas/Benutzeranmeldung/">
+    <File Path="Benutzeranmeldung/README.md" />
+    <Project Path="Benutzeranmeldung/Benutzeranmeldung/Benutzeranmeldung.csproj" />
+    <Project Path="Benutzeranmeldung/Benutzeranmeldung.Tests/Benutzeranmeldung.Tests.csproj" />
+  </Folder>
+  <Folder Name="/03_LibraryKatas/DateidublettenAufspueren/">
+    <File Path="DateidublettenAufspueren/README.md" />
+    <Project Path="DateidublettenAufspueren/DateidublettenAufspueren/DateidublettenAufspueren.csproj" />
+    <Project Path="DateidublettenAufspueren/DateidublettenAufspueren.Tests/DateidublettenAufspueren.Tests.csproj" />
+  </Folder>
+  <Folder Name="/03_LibraryKatas/FolderStats/">
+    <File Path="FolderStats/README.md" />
+    <Project Path="FolderStats/FolderStats/FolderStats.csproj" />
+    <Project Path="FolderStats/FolderStats.Tests/FolderStats.Tests.csproj" />
+  </Folder>
+  <Folder Name="/03_LibraryKatas/INotifyTester/">
+    <File Path="INotifyTester/README.md" />
+    <Project Path="INotifyTester/INotifyTester/INotifyTester.csproj" />
+    <Project Path="INotifyTester/INotifyTester.Tests/INotifyTester.Tests.csproj" />
+  </Folder>
+  <Folder Name="/03_LibraryKatas/WindowsService/">
+    <File Path="WindowsService/README.md" />
+    <Project Path="WindowsService/WindowsService/WindowsService.csproj" />
+    <Project Path="WindowsService/WindowsService.Tests/WindowsService.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/BankOCR/">
+    <File Path="BankOCR/README.md" />
+    <Project Path="BankOCR/BankOCR/BankOCR.csproj" />
+    <Project Path="BankOCR/BankOCR.Tests/BankOCR.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Cal/">
+    <File Path="Cal/README.md" />
+    <Project Path="Cal/Cal/Cal.csproj" />
+    <Project Path="Cal/Cal.Tests/Cal.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/ComparativeEstimation/">
+    <File Path="ComparativeEstimation/README.md" />
+    <Project Path="ComparativeEstimation/ComparativeEstimation/ComparativeEstimation.csproj" />
+    <Project Path="ComparativeEstimation/ComparativeEstimation.Tests/ComparativeEstimation.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/ConvertRoman/">
+    <File Path="ConvertRoman/README.md" />
+    <Project Path="ConvertRoman/ConvertRoman/ConvertRoman.csproj" />
+    <Project Path="ConvertRoman/ConvertRoman.Tests/ConvertRoman.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Fahrplanauskunft/">
+    <File Path="Fahrplanauskunft/README.md" />
+    <Project Path="Fahrplanauskunft/Fahrplanauskunft/Fahrplanauskunft.csproj" />
+    <Project Path="Fahrplanauskunft/Fahrplanauskunft.Tests/Fahrplanauskunft.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Haushaltsbuch/">
+    <File Path="Haushaltsbuch/README.md" />
+    <Project Path="Haushaltsbuch/Haushaltsbuch/Haushaltsbuch.csproj" />
+    <Project Path="Haushaltsbuch/Haushaltsbuch.Tests/Haushaltsbuch.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/IdeaFlowMapping/">
+    <File Path="IdeaFlowMapping/README.md" />
+    <Project Path="IdeaFlowMapping/IdeaFlowMapping/IdeaFlowMapping.csproj" />
+    <Project Path="IdeaFlowMapping/IdeaFlowMapping.Tests/IdeaFlowMapping.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Kassenbuch/">
+    <File Path="Kassenbuch/README.md" />
+    <Project Path="Kassenbuch/Kassenbuch/Kassenbuch.csproj" />
+    <Project Path="Kassenbuch/Kassenbuch.Tests/Kassenbuch.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Kinokasse/">
+    <File Path="Kinokasse/README.md" />
+    <Project Path="Kinokasse/Kinokasse/Kinokasse.csproj" />
+    <Project Path="Kinokasse/Kinokasse.Tests/Kinokasse.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Konfliktloeser/">
+    <File Path="Konfliktloeser/README.md" />
+    <Project Path="Konfliktloeser/Konfliktloeser/Konfliktloeser.csproj" />
+    <Project Path="Konfliktloeser/Konfliktloeser.Tests/Konfliktloeser.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Leiterspiel/">
+    <File Path="Leiterspiel/README.md" />
+    <Project Path="Leiterspiel/Leiterspiel/Leiterspiel.csproj" />
+    <Project Path="Leiterspiel/Leiterspiel.Tests/Leiterspiel.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/LocCount/">
+    <File Path="LocCount/README.md" />
+    <Project Path="LocCount/LocCount/LocCount.csproj" />
+    <Project Path="LocCount/LocCount.Tests/LocCount.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Minesweeper/">
+    <File Path="Minesweeper/README.md" />
+    <Project Path="Minesweeper/Minesweeper/Minesweeper.csproj" />
+    <Project Path="Minesweeper/Minesweeper.Tests/Minesweeper.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/MobTimer/">
+    <File Path="MobTimer/README.md" />
+    <Project Path="MobTimer/MobTimer/MobTimer.csproj" />
+    <Project Path="MobTimer/MobTimer.Tests/MobTimer.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/More/">
+    <File Path="More/README.md" />
+    <Project Path="More/More/More.csproj" />
+    <Project Path="More/More.Tests/More.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/NBack/">
+    <File Path="NBack/README.md" />
+    <Project Path="NBack/NBack/NBack.csproj" />
+    <Project Path="NBack/NBack.Tests/NBack.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Newsletterverteiler/">
+    <File Path="Newsletterverteiler/README.md" />
+    <Project Path="Newsletterverteiler/Newsletterverteiler/Newsletterverteiler.csproj" />
+    <Project Path="Newsletterverteiler/Newsletterverteiler.Tests/Newsletterverteiler.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Rechtschreibpruefung/">
+    <File Path="Rechtschreibpruefung/README.md" />
+    <Project Path="Rechtschreibpruefung/Rechtschreibpruefung/Rechtschreibpruefung.csproj" />
+    <Project Path="Rechtschreibpruefung/Rechtschreibpruefung.Tests/Rechtschreibpruefung.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/SoftwareForecasting/">
+    <File Path="SoftwareForecasting/README.md" />
+    <Project Path="SoftwareForecasting/SoftwareForecasting/SoftwareForecasting.csproj" />
+    <Project Path="SoftwareForecasting/SoftwareForecasting.Tests/SoftwareForecasting.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Stimmungsbarometer/">
+    <File Path="Stimmungsbarometer/README.md" />
+    <Project Path="Stimmungsbarometer/Stimmungsbarometer/Stimmungsbarometer.csproj" />
+    <Project Path="Stimmungsbarometer/Stimmungsbarometer.Tests/Stimmungsbarometer.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Taschenrechner/">
+    <File Path="Taschenrechner/README.md" />
+    <Project Path="Taschenrechner/Taschenrechner/Taschenrechner.csproj" />
+    <Project Path="Taschenrechner/Taschenrechner.Tests/Taschenrechner.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/TextumbruchApplication/">
+    <File Path="TextumbruchApplication/README.md" />
+    <Project Path="TextumbruchApplication/TextumbruchApplication/TextumbruchApplication.csproj" />
+    <Project Path="TextumbruchApplication/TextumbruchApplication.Tests/TextumbruchApplication.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/TicketScanner/">
+    <File Path="TicketScanner/README.md" />
+    <Project Path="TicketScanner/TicketScanner/TicketScanner.csproj" />
+    <Project Path="TicketScanner/TicketScanner.Tests/TicketScanner.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/TicTacToe/">
+    <File Path="TicTacToe/README.md" />
+    <Project Path="TicTacToe/TicTacToe/TicTacToe.csproj" />
+    <Project Path="TicTacToe/TicTacToe.Tests/TicTacToe.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/TicTacToeBot/">
+    <File Path="TicTacToeBot/README.md" />
+    <Project Path="TicTacToeBot/TicTacToeBot/TicTacToeBot.csproj" />
+    <Project Path="TicTacToeBot/TicTacToeBot.Tests/TicTacToeBot.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/ToDo/">
+    <File Path="ToDo/README.md" />
+    <Project Path="ToDo/ToDo/ToDo.csproj" />
+    <Project Path="ToDo/ToDo.Tests/ToDo.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Uebungstimer/">
+    <File Path="Uebungstimer/README.md" />
+    <Project Path="Uebungstimer/Uebungstimer/Uebungstimer.csproj" />
+    <Project Path="Uebungstimer/Uebungstimer.Tests/Uebungstimer.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Vortragsbewertung/">
+    <File Path="Vortragsbewertung/README.md" />
+    <Project Path="Vortragsbewertung/Vortragsbewertung/Vortragsbewertung.csproj" />
+    <Project Path="Vortragsbewertung/Vortragsbewertung.Tests/Vortragsbewertung.Tests.csproj" />
+  </Folder>
+  <Folder Name="/04_ApplicationKatas/Wecker/">
+    <File Path="Wecker/README.md" />
+    <Project Path="Wecker/Wecker/Wecker.csproj" />
+    <Project Path="Wecker/Wecker.Tests/Wecker.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/AktivesKochbuch/">
+    <File Path="AktivesKochbuch/README.md" />
+    <Project Path="AktivesKochbuch/AktivesKochbuch/AktivesKochbuch.csproj" />
+    <Project Path="AktivesKochbuch/AktivesKochbuch.Tests/AktivesKochbuch.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/DropboxWorkflows/">
+    <File Path="DropboxWorkflows/README.md" />
+    <Project Path="DropboxWorkflows/DropboxWorkflows/DropboxWorkflows.csproj" />
+    <Project Path="DropboxWorkflows/DropboxWorkflows.Tests/DropboxWorkflows.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/DvdsTeilen/">
+    <File Path="DvdsTeilen/README.md" />
+    <Project Path="DvdsTeilen/DvdsTeilen/DvdsTeilen.csproj" />
+    <Project Path="DvdsTeilen/DvdsTeilen.Tests/DvdsTeilen.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/FinancialRiskSystem/">
+    <File Path="FinancialRiskSystem/README.md" />
+    <Project Path="FinancialRiskSystem/FinancialRiskSystem/FinancialRiskSystem.csproj" />
+    <Project Path="FinancialRiskSystem/FinancialRiskSystem.Tests/FinancialRiskSystem.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/HeckleService/">
+    <File Path="HeckleService/README.md" />
+    <Project Path="HeckleService/HeckleService/HeckleService.csproj" />
+    <Project Path="HeckleService/HeckleService.Tests/HeckleService.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/IssueTriage/">
+    <File Path="IssueTriage/README.md" />
+    <Project Path="IssueTriage/IssueTriage/IssueTriage.csproj" />
+    <Project Path="IssueTriage/IssueTriage.Tests/IssueTriage.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/KanbanBoard/">
+    <File Path="KanbanBoard/README.md" />
+    <Project Path="KanbanBoard/KanbanBoard/KanbanBoard.csproj" />
+    <Project Path="KanbanBoard/KanbanBoard.Tests/KanbanBoard.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/Kantinenstaumelder/">
+    <File Path="Kantinenstaumelder/README.md" />
+    <Project Path="Kantinenstaumelder/Kantinenstaumelder/Kantinenstaumelder.csproj" />
+    <Project Path="Kantinenstaumelder/Kantinenstaumelder.Tests/Kantinenstaumelder.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/LocStat/">
+    <File Path="LocStat/README.md" />
+    <Project Path="LocStat/LocStat/LocStat.csproj" />
+    <Project Path="LocStat/LocStat.Tests/LocStat.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/LongTweets/">
+    <File Path="LongTweets/README.md" />
+    <Project Path="LongTweets/LongTweets/LongTweets.csproj" />
+    <Project Path="LongTweets/LongTweets.Tests/LongTweets.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/MailFollowupArchitecture/">
+    <File Path="MailFollowupArchitecture/README.md" />
+    <Project Path="MailFollowupArchitecture/MailFollowupArchitecture/MailFollowupArchitecture.csproj" />
+    <Project Path="MailFollowupArchitecture/MailFollowupArchitecture.Tests/MailFollowupArchitecture.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/PizzaOnline/">
+    <File Path="PizzaOnline/README.md" />
+    <Project Path="PizzaOnline/PizzaOnline/PizzaOnline.csproj" />
+    <Project Path="PizzaOnline/PizzaOnline.Tests/PizzaOnline.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/Quizduell/">
+    <File Path="Quizduell/README.md" />
+    <Project Path="Quizduell/Quizduell/Quizduell.csproj" />
+    <Project Path="Quizduell/Quizduell.Desktop/Quizduell.Desktop.csproj" />
+    <Project Path="Quizduell/Quizduell.Tests/Quizduell.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/Sammelbestellung/">
+    <File Path="Sammelbestellung/README.md" />
+    <Project Path="Sammelbestellung/Sammelbestellung/Sammelbestellung.csproj" />
+    <Project Path="Sammelbestellung/Sammelbestellung.Tests/Sammelbestellung.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/SichererTaschenrechner/">
+    <File Path="SichererTaschenrechner/README.md" />
+    <Project Path="SichererTaschenrechner/SichererTaschenrechner/SichererTaschenrechner.csproj" />
+    <Project Path="SichererTaschenrechner/SichererTaschenrechner.Tests/SichererTaschenrechner.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/StadtLandFluss/">
+    <File Path="StadtLandFluss/README.md" />
+    <Project Path="StadtLandFluss/StadtLandFluss/StadtLandFluss.csproj" />
+    <Project Path="StadtLandFluss/StadtLandFluss.Tests/StadtLandFluss.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/Taxi/">
+    <File Path="Taxi/README.md" />
+    <Project Path="Taxi/Taxi/Taxi.csproj" />
+    <Project Path="Taxi/Taxi.Customer/Taxi.Customer.csproj" />
+    <Project Path="Taxi/Taxi.Driver/Taxi.Driver.csproj" />
+    <Project Path="Taxi/Taxi.Tests/Taxi.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/Terminvereinbarung/">
+    <File Path="Terminvereinbarung/README.md" />
+    <Project Path="Terminvereinbarung/Terminvereinbarung/Terminvereinbarung.csproj" />
+    <Project Path="Terminvereinbarung/Terminvereinbarung.Tests/Terminvereinbarung.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/Tomatentimer/">
+    <File Path="Tomatentimer/README.md" />
+    <Project Path="Tomatentimer/Tomatentimer/Tomatentimer.csproj" />
+    <Project Path="Tomatentimer/Tomatentimer.Tests/Tomatentimer.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/UrlShortener/">
+    <File Path="UrlShortener/README.md" />
+    <Project Path="UrlShortener/UrlShortener/UrlShortener.csproj" />
+    <Project Path="UrlShortener/UrlShortener.Tests/UrlShortener.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/VokabelDesTages/">
+    <File Path="VokabelDesTages/README.md" />
+    <Project Path="VokabelDesTages/VokabelDesTages/VokabelDesTages.csproj" />
+    <Project Path="VokabelDesTages/VokabelDesTages.Tests/VokabelDesTages.Tests.csproj" />
+  </Folder>
+  <Folder Name="/05_ArchitectureKatas/Vokabelquiz/">
+    <File Path="Vokabelquiz/README.md" />
+    <Project Path="Vokabelquiz/Vokabelquiz/Vokabelquiz.csproj" />
+    <Project Path="Vokabelquiz/Vokabelquiz.Tests/Vokabelquiz.Tests.csproj" />
+  </Folder>
+  <Folder Name="/06_RefactoringKatas/CsvViewer/">
+    <File Path="CsvViewer/README.md" />
+    <Project Path="CsvViewer/CsvViewer/CsvViewer.csproj" />
+    <Project Path="CsvViewer/CsvViewer.Tests/CsvViewer.Tests.csproj" />
+  </Folder>
+  <Folder Name="/06_RefactoringKatas/Hexdump/">
+    <File Path="Hexdump/README.md" />
+    <Project Path="Hexdump/Hexdump/Hexdump.csproj" />
+    <Project Path="Hexdump/Hexdump.Tests/Hexdump.Tests.csproj" />
+  </Folder>
+  <Folder Name="/07_Modernes_CSharpKatas/TestableLinesOfCode/">
+    <File Path="TestableLinesOfCode/README.md" />
+    <Project Path="TestableLinesOfCode/TestableLinesOfCode/TestableLinesOfCode.csproj" />
+    <Project Path="TestableLinesOfCode/TestableLinesOfCode.Tests/TestableLinesOfCode.Tests.csproj" />
+  </Folder>
+  <Folder Name="/07_Modernes_CSharpKatas/ResultPattern/">
+    <File Path="ResultPattern/README.md" />
+    <Project Path="ResultPattern/ResultPattern/ResultPattern.csproj" />
+    <Project Path="ResultPattern/ResultPattern.Tests/ResultPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/07_Modernes_CSharpKatas/SpanCsvParser/">
+    <File Path="SpanCsvParser/README.md" />
+    <Project Path="SpanCsvParser/SpanCsvParser/SpanCsvParser.csproj" />
+    <Project Path="SpanCsvParser/SpanCsvParser.Tests/SpanCsvParser.Tests.csproj" />
+  </Folder>
+  <Folder Name="/07_Modernes_CSharpKatas/LegacyRescue/">
+    <File Path="LegacyRescue/README.md" />
+    <Project Path="LegacyRescue/LegacyRescue/LegacyRescue.csproj" />
+    <Project Path="LegacyRescue/LegacyRescue.Tests/LegacyRescue.Tests.csproj" />
+  </Folder>
+  <Folder Name="/07_Modernes_CSharpKatas/ArchitectureFitness/">
+    <File Path="ArchitectureFitness/README.md" />
+    <Project Path="ArchitectureFitness/ArchitectureFitness/ArchitectureFitness.csproj" />
+    <Project Path="ArchitectureFitness/ArchitectureFitness.Tests/ArchitectureFitness.Tests.csproj" />
+  </Folder>
+  <Folder Name="/08_AsyncKatas/RateLimitedFetcher/">
+    <File Path="RateLimitedFetcher/README.md" />
+    <Project Path="RateLimitedFetcher/RateLimitedFetcher/RateLimitedFetcher.csproj" />
+    <Project Path="RateLimitedFetcher/RateLimitedFetcher.Tests/RateLimitedFetcher.Tests.csproj" />
+  </Folder>
+  <Folder Name="/08_AsyncKatas/ChannelPipeline/">
+    <File Path="ChannelPipeline/README.md" />
+    <Project Path="ChannelPipeline/ChannelPipeline/ChannelPipeline.csproj" />
+    <Project Path="ChannelPipeline/ChannelPipeline.Tests/ChannelPipeline.Tests.csproj" />
+  </Folder>
+  <Folder Name="/09_APIUndArchitekturKatas/MinimalApi/">
+    <File Path="MinimalApi/README.md" />
+    <Project Path="MinimalApi/MinimalApi/MinimalApi.csproj" />
+    <Project Path="MinimalApi/MinimalApi.Tests/MinimalApi.Tests.csproj" />
+  </Folder>
+  <Folder Name="/09_APIUndArchitekturKatas/EfCore/">
+    <File Path="EfCore/README.md" />
+    <Project Path="EfCore/EfCore/EfCore.csproj" />
+    <Project Path="EfCore/EfCore.Tests/EfCore.Tests.csproj" />
+  </Folder>
+  <Folder Name="/09_APIUndArchitekturKatas/Cqrs/">
+    <File Path="Cqrs/README.md" />
+    <Project Path="Cqrs/Cqrs/Cqrs.csproj" />
+    <Project Path="Cqrs/Cqrs.Tests/Cqrs.Tests.csproj" />
+  </Folder>
+  <Folder Name="/09_APIUndArchitekturKatas/DomainModel/">
+    <File Path="DomainModel/README.md" />
+    <Project Path="DomainModel/DomainModel/DomainModel.csproj" />
+    <Project Path="DomainModel/DomainModel.Tests/DomainModel.Tests.csproj" />
+  </Folder>
+  <Folder Name="/09_APIUndArchitekturKatas/GrpcServices/">
+    <File Path="GrpcServices/README.md" />
+    <Project Path="GrpcServices/GrpcServices/GrpcServices.csproj" />
+    <Project Path="GrpcServices/GrpcServices.Stats/GrpcServices.Stats.csproj" />
+    <Project Path="GrpcServices/GrpcServices.Tests/GrpcServices.Tests.csproj" />
+  </Folder>
+  <Folder Name="/09_APIUndArchitekturKatas/RealtimeSignalR/">
+    <File Path="RealtimeSignalR/README.md" />
+    <Project Path="RealtimeSignalR/RealtimeSignalR/RealtimeSignalR.csproj" />
+    <Project Path="RealtimeSignalR/RealtimeSignalR.Client/RealtimeSignalR.Client.csproj" />
+    <Project Path="RealtimeSignalR/RealtimeSignalR.Tests/RealtimeSignalR.Tests.csproj" />
+  </Folder>
+  <Folder Name="/09_APIUndArchitekturKatas/MultiTenancy/">
+    <File Path="MultiTenancy/README.md" />
+    <Project Path="MultiTenancy/MultiTenancy/MultiTenancy.csproj" />
+    <Project Path="MultiTenancy/MultiTenancy.Tests/MultiTenancy.Tests.csproj" />
+  </Folder>
+  <Folder Name="/10_DatenbankKatas/DapperSql/">
+    <File Path="DapperSql/README.md" />
+    <Project Path="DapperSql/DapperSql/DapperSql.csproj" />
+    <Project Path="DapperSql/DapperSql.Tests/DapperSql.Tests.csproj" />
+  </Folder>
+  <Folder Name="/10_DatenbankKatas/SqlPerformance/">
+    <File Path="SqlPerformance/README.md" />
+    <Project Path="SqlPerformance/SqlPerformance/SqlPerformance.csproj" />
+    <Project Path="SqlPerformance/SqlPerformance.Tests/SqlPerformance.Tests.csproj" />
+  </Folder>
+  <Folder Name="/10_DatenbankKatas/TransactionsAndIsolation/">
+    <File Path="TransactionsAndIsolation/README.md" />
+    <Project Path="TransactionsAndIsolation/TransactionsAndIsolation/TransactionsAndIsolation.csproj" />
+    <Project Path="TransactionsAndIsolation/TransactionsAndIsolation.Tests/TransactionsAndIsolation.Tests.csproj" />
+  </Folder>
+  <Folder Name="/10_DatenbankKatas/BulkAndPaging/">
+    <File Path="BulkAndPaging/README.md" />
+    <Project Path="BulkAndPaging/BulkAndPaging/BulkAndPaging.csproj" />
+    <Project Path="BulkAndPaging/BulkAndPaging.Tests/BulkAndPaging.Tests.csproj" />
+  </Folder>
+  <Folder Name="/10_DatenbankKatas/PostgresJsonb/">
+    <File Path="PostgresJsonb/README.md" />
+    <Project Path="PostgresJsonb/PostgresJsonb/PostgresJsonb.csproj" />
+    <Project Path="PostgresJsonb/PostgresJsonb.Tests/PostgresJsonb.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/OutboxPattern/">
+    <File Path="OutboxPattern/README.md" />
+    <Project Path="OutboxPattern/OutboxPattern/OutboxPattern.csproj" />
+    <Project Path="OutboxPattern/OutboxPattern.Stats/OutboxPattern.Stats.csproj" />
+    <Project Path="OutboxPattern/OutboxPattern.Tests/OutboxPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/Observability/">
+    <File Path="Observability/README.md" />
+    <Project Path="Observability/Observability/Observability.csproj" />
+    <Project Path="Observability/Observability.Tests/Observability.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/ContainerAndCiCd/">
+    <File Path="ContainerAndCiCd/README.md" />
+    <Project Path="ContainerAndCiCd/ContainerAndCiCd/ContainerAndCiCd.csproj" />
+    <Project Path="ContainerAndCiCd/ContainerAndCiCd.Tests/ContainerAndCiCd.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/KafkaStreaming/">
+    <File Path="KafkaStreaming/README.md" />
+    <Project Path="KafkaStreaming/KafkaStreaming/KafkaStreaming.csproj" />
+    <Project Path="KafkaStreaming/KafkaStreaming.Tests/KafkaStreaming.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/AzureServiceBus/">
+    <File Path="AzureServiceBus/README.md" />
+    <Project Path="AzureServiceBus/AzureServiceBus/AzureServiceBus.csproj" />
+    <Project Path="AzureServiceBus/AzureServiceBus.Tests/AzureServiceBus.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/RedisCaching/">
+    <File Path="RedisCaching/README.md" />
+    <Project Path="RedisCaching/RedisCaching/RedisCaching.csproj" />
+    <Project Path="RedisCaching/RedisCaching.Tests/RedisCaching.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/BackgroundJobs/">
+    <File Path="BackgroundJobs/README.md" />
+    <Project Path="BackgroundJobs/BackgroundJobs/BackgroundJobs.csproj" />
+    <Project Path="BackgroundJobs/BackgroundJobs.Tests/BackgroundJobs.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/ProductionDiagnostics/">
+    <File Path="ProductionDiagnostics/README.md" />
+    <Project Path="ProductionDiagnostics/ProductionDiagnostics/ProductionDiagnostics.csproj" />
+    <Project Path="ProductionDiagnostics/ProductionDiagnostics.Tests/ProductionDiagnostics.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/ResilienceAndChaos/">
+    <File Path="ResilienceAndChaos/README.md" />
+    <Project Path="ResilienceAndChaos/ResilienceAndChaos/ResilienceAndChaos.csproj" />
+    <Project Path="ResilienceAndChaos/ResilienceAndChaos.Tests/ResilienceAndChaos.Tests.csproj" />
+  </Folder>
+  <Folder Name="/11_VerteilteSystemeKatas/FeatureFlags/">
+    <File Path="FeatureFlags/README.md" />
+    <Project Path="FeatureFlags/FeatureFlags/FeatureFlags.csproj" />
+    <Project Path="FeatureFlags/FeatureFlags.Tests/FeatureFlags.Tests.csproj" />
+  </Folder>
+  <Folder Name="/12_SicherheitKatas/ApiSecurity/">
+    <File Path="ApiSecurity/README.md" />
+    <Project Path="ApiSecurity/ApiSecurity/ApiSecurity.csproj" />
+    <Project Path="ApiSecurity/ApiSecurity.Tests/ApiSecurity.Tests.csproj" />
+  </Folder>
+  <Folder Name="/12_SicherheitKatas/DataPrivacy/">
+    <File Path="DataPrivacy/README.md" />
+    <Project Path="DataPrivacy/DataPrivacy/DataPrivacy.csproj" />
+    <Project Path="DataPrivacy/DataPrivacy.Tests/DataPrivacy.Tests.csproj" />
+  </Folder>
+  <Folder Name="/13_DifferenzierungKatas/BlazorDashboard/">
+    <File Path="BlazorDashboard/README.md" />
+    <Project Path="BlazorDashboard/BlazorDashboard/BlazorDashboard.csproj" />
+    <Project Path="BlazorDashboard/BlazorDashboard.Api/BlazorDashboard.Api.csproj" />
+    <Project Path="BlazorDashboard/BlazorDashboard.Tests/BlazorDashboard.Tests.csproj" />
+  </Folder>
+  <Folder Name="/13_DifferenzierungKatas/AiIntegration/">
+    <File Path="AiIntegration/README.md" />
+    <Project Path="AiIntegration/AiIntegration/AiIntegration.csproj" />
+    <Project Path="AiIntegration/AiIntegration.Frontend/AiIntegration.Frontend.csproj" />
+    <Project Path="AiIntegration/AiIntegration.Tests/AiIntegration.Tests.csproj" />
+  </Folder>
+  <Folder Name="/13_DifferenzierungKatas/TypeScriptFrontend/">
+    <File Path="TypeScriptFrontend/README.md" />
+    <Project Path="TypeScriptFrontend/TypeScriptFrontend/TypeScriptFrontend.csproj" />
+    <Project Path="TypeScriptFrontend/TypeScriptFrontend.Api/TypeScriptFrontend.Api.csproj" />
+    <Project Path="TypeScriptFrontend/TypeScriptFrontend.Tests/TypeScriptFrontend.Tests.csproj" />
+  </Folder>
+  <Folder Name="/13_DifferenzierungKatas/AiAssistedDevelopment/">
+    <File Path="AiAssistedDevelopment/README.md" />
+    <Project Path="AiAssistedDevelopment/AiAssistedDevelopment/AiAssistedDevelopment.csproj" />
+    <Project Path="AiAssistedDevelopment/AiAssistedDevelopment.Tests/AiAssistedDevelopment.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/FactoryMethodPattern/">
+    <File Path="FactoryMethodPattern/README.md" />
+    <Project Path="FactoryMethodPattern/FactoryMethodPattern/FactoryMethodPattern.csproj" />
+    <Project Path="FactoryMethodPattern/FactoryMethodPattern.Tests/FactoryMethodPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/AbstractFactoryPattern/">
+    <File Path="AbstractFactoryPattern/README.md" />
+    <Project Path="AbstractFactoryPattern/AbstractFactoryPattern/AbstractFactoryPattern.csproj" />
+    <Project Path="AbstractFactoryPattern/AbstractFactoryPattern.Tests/AbstractFactoryPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/BuilderPattern/">
+    <File Path="BuilderPattern/README.md" />
+    <Project Path="BuilderPattern/BuilderPattern/BuilderPattern.csproj" />
+    <Project Path="BuilderPattern/BuilderPattern.Tests/BuilderPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/PrototypePattern/">
+    <File Path="PrototypePattern/README.md" />
+    <Project Path="PrototypePattern/PrototypePattern/PrototypePattern.csproj" />
+    <Project Path="PrototypePattern/PrototypePattern.Tests/PrototypePattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/SingletonPattern/">
+    <File Path="SingletonPattern/README.md" />
+    <Project Path="SingletonPattern/SingletonPattern/SingletonPattern.csproj" />
+    <Project Path="SingletonPattern/SingletonPattern.Tests/SingletonPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/AdapterPattern/">
+    <File Path="AdapterPattern/README.md" />
+    <Project Path="AdapterPattern/AdapterPattern/AdapterPattern.csproj" />
+    <Project Path="AdapterPattern/AdapterPattern.Tests/AdapterPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/BridgePattern/">
+    <File Path="BridgePattern/README.md" />
+    <Project Path="BridgePattern/BridgePattern/BridgePattern.csproj" />
+    <Project Path="BridgePattern/BridgePattern.Tests/BridgePattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/CompositePattern/">
+    <File Path="CompositePattern/README.md" />
+    <Project Path="CompositePattern/CompositePattern/CompositePattern.csproj" />
+    <Project Path="CompositePattern/CompositePattern.Tests/CompositePattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/DecoratorPattern/">
+    <File Path="DecoratorPattern/README.md" />
+    <Project Path="DecoratorPattern/DecoratorPattern/DecoratorPattern.csproj" />
+    <Project Path="DecoratorPattern/DecoratorPattern.Tests/DecoratorPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/FacadePattern/">
+    <File Path="FacadePattern/README.md" />
+    <Project Path="FacadePattern/FacadePattern/FacadePattern.csproj" />
+    <Project Path="FacadePattern/FacadePattern.Tests/FacadePattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/FlyweightPattern/">
+    <File Path="FlyweightPattern/README.md" />
+    <Project Path="FlyweightPattern/FlyweightPattern/FlyweightPattern.csproj" />
+    <Project Path="FlyweightPattern/FlyweightPattern.Tests/FlyweightPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/ProxyPattern/">
+    <File Path="ProxyPattern/README.md" />
+    <Project Path="ProxyPattern/ProxyPattern/ProxyPattern.csproj" />
+    <Project Path="ProxyPattern/ProxyPattern.Tests/ProxyPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/ChainOfResponsibilityPattern/">
+    <File Path="ChainOfResponsibilityPattern/README.md" />
+    <Project Path="ChainOfResponsibilityPattern/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.csproj" />
+    <Project Path="ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.Tests/ChainOfResponsibilityPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/CommandPattern/">
+    <File Path="CommandPattern/README.md" />
+    <Project Path="CommandPattern/CommandPattern/CommandPattern.csproj" />
+    <Project Path="CommandPattern/CommandPattern.Tests/CommandPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/IteratorPattern/">
+    <File Path="IteratorPattern/README.md" />
+    <Project Path="IteratorPattern/IteratorPattern/IteratorPattern.csproj" />
+    <Project Path="IteratorPattern/IteratorPattern.Tests/IteratorPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/MediatorPattern/">
+    <File Path="MediatorPattern/README.md" />
+    <Project Path="MediatorPattern/MediatorPattern/MediatorPattern.csproj" />
+    <Project Path="MediatorPattern/MediatorPattern.Tests/MediatorPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/MementoPattern/">
+    <File Path="MementoPattern/README.md" />
+    <Project Path="MementoPattern/MementoPattern/MementoPattern.csproj" />
+    <Project Path="MementoPattern/MementoPattern.Tests/MementoPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/ObserverPattern/">
+    <File Path="ObserverPattern/README.md" />
+    <Project Path="ObserverPattern/ObserverPattern/ObserverPattern.csproj" />
+    <Project Path="ObserverPattern/ObserverPattern.Tests/ObserverPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/StatePattern/">
+    <File Path="StatePattern/README.md" />
+    <Project Path="StatePattern/StatePattern/StatePattern.csproj" />
+    <Project Path="StatePattern/StatePattern.Tests/StatePattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/StrategyPattern/">
+    <File Path="StrategyPattern/README.md" />
+    <Project Path="StrategyPattern/StrategyPattern/StrategyPattern.csproj" />
+    <Project Path="StrategyPattern/StrategyPattern.Tests/StrategyPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/TemplateMethodPattern/">
+    <File Path="TemplateMethodPattern/README.md" />
+    <Project Path="TemplateMethodPattern/TemplateMethodPattern/TemplateMethodPattern.csproj" />
+    <Project Path="TemplateMethodPattern/TemplateMethodPattern.Tests/TemplateMethodPattern.Tests.csproj" />
+  </Folder>
+  <Folder Name="/14_DesignPatterns/VisitorPattern/">
+    <File Path="VisitorPattern/README.md" />
+    <Project Path="VisitorPattern/VisitorPattern/VisitorPattern.csproj" />
+    <Project Path="VisitorPattern/VisitorPattern.Tests/VisitorPattern.Tests.csproj" />
+  </Folder>
+</Solution>
