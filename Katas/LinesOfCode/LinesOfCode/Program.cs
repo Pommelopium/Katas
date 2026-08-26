@@ -4,7 +4,7 @@ using System.IO;
 
 namespace LinesOfCode;
 
-class Program
+public  class Program
 {
     static void Main(string[] args)
     {
@@ -15,7 +15,7 @@ class Program
         }
     }
 
-    private static (int, int, int) LinesOfCode(string code)
+    public static (int linesOfCode, int linesOfComments, int linesOfWhiteSpace) LinesOfCode(string code)
     {
         StringReader reader = new StringReader(code);
         string? currentLine = reader.ReadLine()?.Trim();
