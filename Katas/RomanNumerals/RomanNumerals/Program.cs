@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace RomanNumerals;
 
-class Program
+public class Program
 {
-    static void Main(string[] _)
+    public static void Main(string[] _)
     {
         //im Coding Kata ist eigentlich geschrieben, dass die Zahlen korrekt sind, trotzdem mal eine Prüfung mit einbauen
         Console.WriteLine("RomanNumerals: ");
@@ -34,7 +34,7 @@ class Program
         { 'M', 1000 },
     };
 
-    private static int Parse(string romanValue)
+    public static int Parse(string romanValue)
     {
         if(romanValue.Length == 0)
             return 0;

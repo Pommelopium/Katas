@@ -2,14 +2,14 @@
 
 namespace  FizzBuss;
 
-class Program
+public class Program
 {
     static void Main(string[] args)
     {
         FizzBuzz(true);
     }
 
-    private static void FizzBuzz(bool funMode = false)
+    public static void FizzBuzz(bool funMode = false)
     {
         for (int i = 1; i <= 100; i++)
         {

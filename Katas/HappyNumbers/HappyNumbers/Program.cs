@@ -14,7 +14,7 @@ public class Program
         }
     }
     
-    private static bool IsHappyNumber(int number, int iteration = 0)
+    public static bool IsHappyNumber(int number, int iteration = 0)
     {
         int[] digits = number.ToString().Select(c => int.Parse(c.ToString())).ToArray();
         int sum = 0;
