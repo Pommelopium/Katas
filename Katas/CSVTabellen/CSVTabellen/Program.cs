@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CSVTabellen;
 
-class Program
+public class Program
 {
     static void Main(string[] _)
     {
@@ -23,7 +23,7 @@ class Program
         }
     }
 
-    private static IEnumerable<string> Tabellieren(IEnumerable<string> csvZeilen, bool hatUeberschrift = true)
+    public static IEnumerable<string> Tabellieren(IEnumerable<string> csvZeilen, bool hatUeberschrift = true)
     {
         // Um Enumeration fehler zu vermeiden, als Liste umwandeln
         List<string> inputValues = csvZeilen.ToList();
