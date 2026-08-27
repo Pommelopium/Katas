@@ -29,4 +29,17 @@ public class Rot13Test
     {
         Assert.Equal(expected, Program.RotVerschluesseln(input, 14));
     }
+    
+    [Theory]
+    [InlineData("Hello World!", "HELLO WORLD!")]
+    [InlineData("0123456789", "0123456789")]
+    [InlineData("ABCDEFGHIJKLMNOPQRSTUVWXYZ", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")]
+    [InlineData("ß", "SS")]
+    [InlineData("Ä", "AE")]
+    [InlineData("Ü", "UE")]
+    [InlineData("Ö", "OE")]
+    public void TestRot0(string input, string expected)
+    {
+        Assert.Equal(expected, Program.RotVerschluesseln(input, 0));
+    }
 }
