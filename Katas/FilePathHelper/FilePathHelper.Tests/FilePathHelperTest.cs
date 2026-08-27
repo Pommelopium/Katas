@@ -11,15 +11,12 @@ public class FilePathHelperTest
         _testOutputHelper = testOutputHelper;
     }
     
-    [Fact]
-    public void Test1()
+    [Theory]
+    [InlineData("~/Downloads/mountains.jpg")] //` -> `/Users/brucew/Downloads/mountains.jpg`
+    [InlineData("./bin/debug/samples/config.json")] //` -> `/Users/brucew/Projects/ETF/bin/debug/samples/config.json`
+    [InlineData("/Users/brucew/Projects/ETF/bin/../program.cs")] // -> `/Users/brucew/Projects/ETF/program.cs`
+    public void Test1(string path)
     {
-        //IEnumerable<string> result = Program.(input).ToList();
-        //Assert.NotEmpty(result);
-        //foreach (string item in result)
-        //{
-        //    Assert.NotNull(item);
-        //    _testOutputHelper.WriteLine(item);
-        //}
+        _testOutputHelper.WriteLine(Program.GetAbsolutFilePath(path));
     }
 }
