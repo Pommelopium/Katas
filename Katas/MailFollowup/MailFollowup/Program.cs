@@ -31,17 +31,19 @@ public class Program
     {
         DateTime followupZeitpunkt = now;
         string timeStuff = emailadresse.Split('@')[0];
-        string generalTimeW = "([0-9]+)week|weeks";
-        string generalTimeD = "([0-9]+)day|days";
-        string generalTimeH = "([0-9]+)hour|hours";
-        string generalTimeM = "([0-9]+)minute|minutes";
-        string specificTimeM = $"({string.Join('|', Enum.GetNames<Months>())})([0-9]+)";
-        string specificTimeAmPm = "([0-9]+)(am|pm)";
+        // (?<name>..) makes a group and accessable by name > matchResult.Groups["name"]
+        // \s*  makes up for any numbner of white spaces, not possible in mail adresses but is not absolutly wrong 
+        string generalTimeW = "(?<weeks>[0-9]+)\\s*weeks?";
+        string generalTimeD = "(?<days>[0-9]+)days?";
+        string generalTimeH = "(?<hours>[0-9]+)hours?";
+        string generalTimeM = "(?<minutes>[0-9]+)minutes?";
+        string specificTimeM = $"(?<month>{string.Join('|', Enum.GetNames<Months>())})(?<dOfMonth>[0-9]+)";
+        string specificTimeAmPm = "(?<oclock>[0-9]+)(?<timeOfDay>am|pm)";
         
         Match matchResult =  Regex.Match(timeStuff, generalTimeW);
         if (matchResult.Success)
         {
-            int.TryParse(matchResult.Groups[1].Value, out int weeks);
+            int.TryParse(matchResult.Groups["weeks"].Value, out int weeks);
             {
                 followupZeitpunkt = followupZeitpunkt.AddDays(weeks*7);
             }
@@ -50,7 +52,7 @@ public class Program
         matchResult =  Regex.Match(timeStuff, generalTimeD);
         if (matchResult.Success)
         {
-            int.TryParse(matchResult.Groups[1].Value, out int days);
+            int.TryParse(matchResult.Groups["days"].Value, out int days);
             {
                 followupZeitpunkt = followupZeitpunkt.AddDays(days);
             }
@@ -59,7 +61,7 @@ public class Program
         matchResult =  Regex.Match(timeStuff, generalTimeH);
         if (matchResult.Success)
         {
-            int.TryParse(matchResult.Groups[1].Value, out int hours);
+            int.TryParse(matchResult.Groups["hours"].Value, out int hours);
             {
                 followupZeitpunkt = followupZeitpunkt.AddHours(hours);
             }
@@ -68,7 +70,7 @@ public class Program
         matchResult =  Regex.Match(timeStuff, generalTimeM);
         if (matchResult.Success)
         {
-            int.TryParse(matchResult.Groups[1].Value, out int minutes);
+            int.TryParse(matchResult.Groups["minutes"].Value, out int minutes);
             {
                 followupZeitpunkt = followupZeitpunkt.AddMinutes(minutes);
             }
@@ -79,12 +81,12 @@ public class Program
         {
             int day = followupZeitpunkt.Day;
             
-            if(int.TryParse(matchResult.Groups[2].Value, out int days))
+            if(int.TryParse(matchResult.Groups["dOfMonth"].Value, out int days))
             {
                 day = days;
             }
             
-            if (Enum.TryParse(matchResult.Groups[1].Value, out Months months))
+            if (Enum.TryParse(matchResult.Groups["month"].Value, out Months months))
             {
                 followupZeitpunkt = new  DateTime(followupZeitpunkt.Year, (int) months, day, followupZeitpunkt.Hour, followupZeitpunkt.Minute, followupZeitpunkt.Second);
             }
@@ -93,8 +95,8 @@ public class Program
         matchResult =  Regex.Match(timeStuff, specificTimeAmPm);
         if (matchResult.Success)
         {
-            string amPm = matchResult.Groups[2].Value;
-            int.TryParse(matchResult.Groups[1].Value, out int oClock);
+            string amPm = matchResult.Groups["timeOfDay"].Value;
+            int.TryParse(matchResult.Groups["oclock"].Value, out int oClock);
             {
                 if (string.Equals("AM", amPm, StringComparison.CurrentCultureIgnoreCase))
                 {
