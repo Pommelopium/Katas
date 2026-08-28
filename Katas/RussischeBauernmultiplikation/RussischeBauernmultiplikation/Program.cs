@@ -6,10 +6,23 @@ namespace RussischeBauernmultiplikation;
 ///     Aufgabenbeschreibung: siehe README.md in diesem Projekt.
 ///     Quelle: https://ccd-school.de/coding-dojo/function-katas/russische-bauernmultiplikation/
 /// </summary>
-class Program
+public class Program
 {
-    static void Main(string[] args)
+    public static int Mul(int a, int b)
     {
-        Console.WriteLine("Russische Bauernmultiplikation");
+        if (a == 0 || b == 0)
+        {
+            return 0;
+        }
+        
+        List<(int, int)> result = [];
+        do
+        {
+            result.Add((a, b));
+            a /= 2;
+            b *= 2;
+        } while (a >= 1);
+
+        return result.Where(t => t.Item1 % 2 != 0).Select(t => t.Item2).Sum();
     }
 }
