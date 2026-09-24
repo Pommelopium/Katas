@@ -13,8 +13,15 @@ Eine Funktion entwickeln, die einen speziell formatierten String analysiert und 
 - Randfaelle definieren: leerer Input, doppelte Schluessel, fehlende Werte
 
 ## Beispiele und Testfaelle
+| Input        | Erwartetes ergebnis                   |
+|--------------|---------------------------------------|
+| "a=1;b=2;c=3" | {{"a", "1"}, {"b", "2"},{"c", "3"}}  |
+| "a=1;a=2"    | {{"a", "1"}, {"b", "2"}}              |
+| "a=1;;b=2"   | {{"a", "2"}}                          |
+| "a="         | Exception                             |
+| "-1"         | {}                                    |
+| "a==1"       | {{"a", "=1"}}                         |
 
-- Die Beispieltabelle liegt auf der Kata-Seite als Grafik vor -- vor dem Start dort nachschlagen
 
 ---
 
